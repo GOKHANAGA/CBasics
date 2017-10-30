@@ -1,0 +1,6 @@
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\CreatingArraysAndAssignment\bin\Debug\CreatingArraysAndAssignment.exe.config
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\CreatingArraysAndAssignment\bin\Debug\CreatingArraysAndAssignment.exe
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\CreatingArraysAndAssignment\bin\Debug\CreatingArraysAndAssignment.pdb
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\CreatingArraysAndAssignment\obj\Debug\CreatingArraysAndAssignment.exe
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\CreatingArraysAndAssignment\obj\Debug\CreatingArraysAndAssignment.pdb
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\CreatingArraysAndAssignment\obj\Debug\CreatingArraysAndAssignment.csprojResolveAssemblyReference.cache

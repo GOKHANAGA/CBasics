@@ -1,0 +1,6 @@
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\PrimeCheck\bin\Debug\PrimeCheck.exe.config
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\PrimeCheck\bin\Debug\PrimeCheck.exe
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\PrimeCheck\bin\Debug\PrimeCheck.pdb
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\PrimeCheck\obj\Debug\PrimeCheck.exe
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\PrimeCheck\obj\Debug\PrimeCheck.pdb
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\PrimeCheck\obj\Debug\PrimeCheck.csprojResolveAssemblyReference.cache

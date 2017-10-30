@@ -1,0 +1,6 @@
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArraySort\bin\Debug\ArraySort.exe.config
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArraySort\bin\Debug\ArraySort.exe
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArraySort\bin\Debug\ArraySort.pdb
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArraySort\obj\Debug\ArraySort.exe
+C:\Users\Gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArraySort\obj\Debug\ArraySort.pdb
+C:\Users\Gökhan\Documents\Visual Studio 2013\Projects\ArrayBasics\ArraySort\obj\Debug\ArraySort.csprojResolveAssemblyReference.cache

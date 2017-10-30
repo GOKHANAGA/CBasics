@@ -1,0 +1,6 @@
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArrayBasics\bin\Debug\ArrayBasics.exe.config
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArrayBasics\bin\Debug\ArrayBasics.exe
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArrayBasics\bin\Debug\ArrayBasics.pdb
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArrayBasics\obj\Debug\ArrayBasics.csprojResolveAssemblyReference.cache
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArrayBasics\obj\Debug\ArrayBasics.exe
+c:\users\gökhan\documents\visual studio 2013\Projects\ArrayBasics\ArrayBasics\obj\Debug\ArrayBasics.pdb
