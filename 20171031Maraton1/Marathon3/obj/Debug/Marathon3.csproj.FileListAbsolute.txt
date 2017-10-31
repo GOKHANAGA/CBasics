@@ -1,0 +1,5 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\Marathon3\bin\Debug\Marathon3.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\Marathon3\bin\Debug\Marathon3.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\Marathon3\bin\Debug\Marathon3.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\Marathon3\obj\Debug\Marathon3.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\Marathon3\obj\Debug\Marathon3.pdb

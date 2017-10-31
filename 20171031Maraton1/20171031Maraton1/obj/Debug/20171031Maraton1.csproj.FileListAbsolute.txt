@@ -1,0 +1,6 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\20171031Maraton1\bin\Debug\20171031Maraton1.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\20171031Maraton1\obj\Debug\20171031Maraton1.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\20171031Maraton1\bin\Debug\20171031Maraton1.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\20171031Maraton1\bin\Debug\20171031Maraton1.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\20171031Maraton1\obj\Debug\20171031Maraton1.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171031Maraton1\20171031Maraton1\obj\Debug\20171031Maraton1.pdb
