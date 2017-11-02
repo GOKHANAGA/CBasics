@@ -1,0 +1,9 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\20171102CV\bin\Debug\20171102CV.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\20171102CV\bin\Debug\20171102CV.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\20171102CV\bin\Debug\20171102CV.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\20171102CV\obj\Debug\_20171102CV.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\20171102CV\obj\Debug\_20171102CV.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\20171102CV\obj\Debug\20171102CV.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\20171102CV\obj\Debug\20171102CV.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\20171102CV\obj\Debug\20171102CV.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\20171102CV\obj\Debug\20171102CV.csprojResolveAssemblyReference.cache

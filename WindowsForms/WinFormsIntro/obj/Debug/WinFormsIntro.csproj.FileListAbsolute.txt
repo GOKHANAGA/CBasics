@@ -1,0 +1,9 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\WinFormsIntro\bin\Debug\WinFormsIntro.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\WinFormsIntro\bin\Debug\WinFormsIntro.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\WinFormsIntro\bin\Debug\WinFormsIntro.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\WinFormsIntro\obj\Debug\WinFormsIntro.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\WinFormsIntro\obj\Debug\WinFormsIntro.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\WinFormsIntro\obj\Debug\WinFormsIntro.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\WinFormsIntro\obj\Debug\WinFormsIntro.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\WinFormsIntro\obj\Debug\WinFormsIntro.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\WindowsForms\WinFormsIntro\obj\Debug\WinFormsIntro.pdb
