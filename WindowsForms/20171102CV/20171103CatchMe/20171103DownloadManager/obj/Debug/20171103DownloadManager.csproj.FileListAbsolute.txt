@@ -1,0 +1,10 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\bin\Debug\20171103DownloadManager.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\bin\Debug\20171103DownloadManager.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\bin\Debug\20171103DownloadManager.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\obj\Debug\_20171103DownloadManager.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\obj\Debug\_20171103DownloadManager.frmDownloadScreen.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\obj\Debug\_20171103DownloadManager.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\obj\Debug\20171103DownloadManager.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\obj\Debug\20171103DownloadManager.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\obj\Debug\20171103DownloadManager.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103DownloadManager\obj\Debug\20171103DownloadManager.csprojResolveAssemblyReference.cache

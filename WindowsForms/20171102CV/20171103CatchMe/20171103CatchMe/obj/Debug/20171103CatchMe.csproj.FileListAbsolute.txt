@@ -1,0 +1,9 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103CatchMe\bin\Debug\20171103CatchMe.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103CatchMe\bin\Debug\20171103CatchMe.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103CatchMe\bin\Debug\20171103CatchMe.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103CatchMe\obj\Debug\20171103CatchMe.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103CatchMe\obj\Debug\_20171103CatchMe.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103CatchMe\obj\Debug\_20171103CatchMe.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103CatchMe\obj\Debug\20171103CatchMe.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103CatchMe\obj\Debug\20171103CatchMe.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171103CatchMe\20171103CatchMe\obj\Debug\20171103CatchMe.pdb
