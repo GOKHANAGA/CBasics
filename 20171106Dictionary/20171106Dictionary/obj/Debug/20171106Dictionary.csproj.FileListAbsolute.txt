@@ -1,0 +1,17 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171106Dictionary\20171106Dictionary\bin\Debug\20171106Dictionary.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171106Dictionary\20171106Dictionary\bin\Debug\20171106Dictionary.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171106Dictionary\20171106Dictionary\bin\Debug\20171106Dictionary.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171106Dictionary\20171106Dictionary\obj\Debug\_20171106Dictionary.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171106Dictionary\20171106Dictionary\obj\Debug\_20171106Dictionary.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171106Dictionary\20171106Dictionary\obj\Debug\20171106Dictionary.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171106Dictionary\20171106Dictionary\obj\Debug\20171106Dictionary.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171106Dictionary\20171106Dictionary\obj\Debug\20171106Dictionary.pdb
+C:\Users\Gökhan\Desktop\20171106Dictionary\20171106Dictionary\bin\Debug\20171106Dictionary.exe.config
+C:\Users\Gökhan\Desktop\20171106Dictionary\20171106Dictionary\obj\Debug\20171106Dictionary.exe
+C:\Users\Gökhan\Desktop\20171106Dictionary\20171106Dictionary\obj\Debug\20171106Dictionary.pdb
+C:\Users\Gökhan\Desktop\20171106Dictionary\20171106Dictionary\bin\Debug\20171106Dictionary.exe
+C:\Users\Gökhan\Desktop\20171106Dictionary\20171106Dictionary\bin\Debug\20171106Dictionary.pdb
+C:\Users\Gökhan\Desktop\20171106Dictionary\20171106Dictionary\obj\Debug\20171106Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\20171106Dictionary\20171106Dictionary\obj\Debug\_20171106Dictionary.Form1.resources
+C:\Users\Gökhan\Desktop\20171106Dictionary\20171106Dictionary\obj\Debug\_20171106Dictionary.Properties.Resources.resources
+C:\Users\Gökhan\Desktop\20171106Dictionary\20171106Dictionary\obj\Debug\20171106Dictionary.csproj.GenerateResource.Cache
