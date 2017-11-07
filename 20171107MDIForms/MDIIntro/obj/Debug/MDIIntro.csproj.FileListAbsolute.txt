@@ -1,0 +1,11 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\bin\Debug\MDIIntro.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\bin\Debug\MDIIntro.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\bin\Debug\MDIIntro.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\obj\Debug\MDIIntro.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\obj\Debug\MDIIntro.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\obj\Debug\MDIIntro.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\obj\Debug\MDIIntro.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\obj\Debug\MDIIntro.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\obj\Debug\MDIIntro.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\obj\Debug\MDIIntro.ChildForm1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDIIntro\obj\Debug\MDIIntro.ChildForm2.resources

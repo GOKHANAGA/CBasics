@@ -1,0 +1,10 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\bin\Debug\MDICommunicationBetweenForms.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\bin\Debug\MDICommunicationBetweenForms.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\bin\Debug\MDICommunicationBetweenForms.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\obj\Debug\MDICommunicationBetweenForms.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\obj\Debug\MDICommunicationBetweenForms.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\obj\Debug\MDICommunicationBetweenForms.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\obj\Debug\MDICommunicationBetweenForms.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\obj\Debug\MDICommunicationBetweenForms.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\obj\Debug\MDICommunicationBetweenForms.SecondForm.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171107MDIForms\MDICommunicationBetweenForms\obj\Debug\MDICommunicationBetweenForms.csprojResolveAssemblyReference.cache
