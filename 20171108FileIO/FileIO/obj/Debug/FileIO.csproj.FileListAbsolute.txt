@@ -1,0 +1,9 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileIO\FileIO\obj\Debug\FileIO.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileIO\FileIO\obj\Debug\FileIO.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileIO\FileIO\obj\Debug\FileIO.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileIO\FileIO\obj\Debug\FileIO.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileIO\FileIO\obj\Debug\FileIO.pdb
