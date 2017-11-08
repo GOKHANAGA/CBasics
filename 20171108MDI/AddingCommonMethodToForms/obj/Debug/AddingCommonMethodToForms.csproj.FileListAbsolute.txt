@@ -1,0 +1,11 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\bin\Debug\AddingCommonMethodToForms.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\bin\Debug\AddingCommonMethodToForms.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\bin\Debug\AddingCommonMethodToForms.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\obj\Debug\AddingCommonMethodToForms.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\obj\Debug\AddingCommonMethodToForms.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\obj\Debug\AddingCommonMethodToForms.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\obj\Debug\AddingCommonMethodToForms.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\obj\Debug\AddingCommonMethodToForms.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\obj\Debug\AddingCommonMethodToForms.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\obj\Debug\AddingCommonMethodToForms.ImageForm.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108MDI\AddingCommonMethodToForms\obj\Debug\AddingCommonMethodToForms.TextForm.resources
