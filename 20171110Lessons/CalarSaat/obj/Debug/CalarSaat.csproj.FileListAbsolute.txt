@@ -1,0 +1,12 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171110Lessons\CalarSaat\bin\Debug\CalarSaat.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171110Lessons\CalarSaat\bin\Debug\CalarSaat.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171110Lessons\CalarSaat\bin\Debug\CalarSaat.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171110Lessons\CalarSaat\obj\Debug\CalarSaat.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171110Lessons\CalarSaat\obj\Debug\CalarSaat.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171110Lessons\CalarSaat\obj\Debug\CalarSaat.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171110Lessons\CalarSaat\obj\Debug\CalarSaat.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171110Lessons\CalarSaat\obj\Debug\CalarSaat.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171110Lessons\CalarSaat\obj\Debug\CalarSaat.pdb
+C:\Users\Gökhan\Desktop\20171110Lessons\CalarSaat\bin\Debug\CalarSaat.exe.config
+C:\Users\Gökhan\Desktop\20171110Lessons\CalarSaat\obj\Debug\CalarSaat.exe
+C:\Users\Gökhan\Desktop\20171110Lessons\CalarSaat\obj\Debug\CalarSaat.pdb
