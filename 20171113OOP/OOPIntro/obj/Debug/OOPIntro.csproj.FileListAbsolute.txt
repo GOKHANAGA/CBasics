@@ -1,0 +1,9 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171113OOP\OOPIntro\bin\Debug\OOPIntro.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171113OOP\OOPIntro\bin\Debug\OOPIntro.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171113OOP\OOPIntro\bin\Debug\OOPIntro.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171113OOP\OOPIntro\obj\Debug\OOPIntro.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171113OOP\OOPIntro\obj\Debug\OOPIntro.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171113OOP\OOPIntro\obj\Debug\OOPIntro.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171113OOP\OOPIntro\obj\Debug\OOPIntro.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171113OOP\OOPIntro\obj\Debug\OOPIntro.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171113OOP\OOPIntro\obj\Debug\OOPIntro.pdb
