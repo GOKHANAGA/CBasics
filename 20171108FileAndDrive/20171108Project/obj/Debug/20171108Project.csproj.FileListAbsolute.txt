@@ -1,0 +1,9 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileAndDrive\20171108Project\bin\Debug\20171108Project.exe.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileAndDrive\20171108Project\bin\Debug\20171108Project.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileAndDrive\20171108Project\bin\Debug\20171108Project.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileAndDrive\20171108Project\obj\Debug\20171108Project.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileAndDrive\20171108Project\obj\Debug\_20171108Project.Form1.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileAndDrive\20171108Project\obj\Debug\_20171108Project.Properties.Resources.resources
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileAndDrive\20171108Project\obj\Debug\20171108Project.csproj.GenerateResource.Cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileAndDrive\20171108Project\obj\Debug\20171108Project.exe
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171108FileAndDrive\20171108Project\obj\Debug\20171108Project.pdb
