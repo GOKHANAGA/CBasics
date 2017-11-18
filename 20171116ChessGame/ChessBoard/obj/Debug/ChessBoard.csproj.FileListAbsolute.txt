@@ -1,0 +1,7 @@
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessBoard\bin\Debug\ChessBoard.dll
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessBoard\bin\Debug\ChessGameLibr.dll
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessBoard\bin\Debug\ChessGameLibr.pdb
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessBoard\obj\Debug\ChessBoard.dll
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessBoard\obj\Debug\ChessBoard.pdb

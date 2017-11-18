@@ -1,0 +1,9 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171116ChessGame\ChessGameLibr\bin\Debug\ChessGameLibr.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171116ChessGame\ChessGameLibr\bin\Debug\ChessGameLibr.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171116ChessGame\ChessGameLibr\obj\Debug\ChessGameLibr.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171116ChessGame\ChessGameLibr\obj\Debug\ChessGameLibr.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\20171116ChessGame\ChessGameLibr\obj\Debug\ChessGameLibr.pdb
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessGameLibr\bin\Debug\ChessGameLibr.dll
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessGameLibr\bin\Debug\ChessGameLibr.pdb
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessGameLibr\obj\Debug\ChessGameLibr.dll
+C:\Users\Gökhan\Desktop\20171116ChessGame\ChessGameLibr\obj\Debug\ChessGameLibr.pdb
