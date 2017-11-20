@@ -57,6 +57,9 @@ namespace ChessGameProject
         {
             if (cmbPieces.SelectedIndex != 0)
             {
+            
+                /*----Square squareToHoldPiece = gameBoard.AddPiece((PieceTypes)(cmbPieces.SelectedItem));*/
+                /*----Alttaki üç satır yukarıdaki şekilde de yazılabilir----*/
                 PieceTypes pieceType =
                     (PieceTypes)Enum.Parse(typeof(PieceTypes), cmbPieces.Text);
 
