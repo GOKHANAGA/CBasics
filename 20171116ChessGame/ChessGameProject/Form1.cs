@@ -28,6 +28,7 @@ namespace ChessGameProject
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            /*----Square square in gameBoard.DicSquare.GetValues()----*/
             foreach (KeyValuePair<string, Square> kvItem in gameBoard.DicSquare)
             {
                 Label lbl = new Label();
@@ -60,6 +61,7 @@ namespace ChessGameProject
                     (PieceTypes)Enum.Parse(typeof(PieceTypes), cmbPieces.Text);
 
                 Square squareToHoldPiece = gameBoard.AddPiece(pieceType);
+                
                 foreach (KeyValuePair<string, Label> kvItem in labelsInForm)
                 {
                     if (squareToHoldPiece.SquareName == kvItem.Key)
