@@ -1,0 +1,10 @@
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\bin\Debug\Giyotin.exe.config
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\bin\Debug\Giyotin.exe
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\bin\Debug\Giyotin.pdb
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\obj\Debug\Giyotin.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\obj\Debug\Giyotin.Form1.resources
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\obj\Debug\Giyotin.Properties.Resources.resources
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\obj\Debug\Giyotin.csproj.GenerateResource.Cache
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\obj\Debug\Giyotin.exe
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\obj\Debug\Giyotin.pdb
+C:\Users\Gökhan\Desktop\20171123Giyotin\Giyotin\obj\Debug\Giyotin.GiyotinForm.resources
