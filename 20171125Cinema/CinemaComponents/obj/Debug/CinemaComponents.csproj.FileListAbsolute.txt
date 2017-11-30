@@ -3,3 +3,8 @@ C:\Users\Gökhan\Desktop\20171125Cinema\CinemaComponents\bin\Debug\CinemaCompone
 C:\Users\Gökhan\Desktop\20171125Cinema\CinemaComponents\obj\Debug\CinemaComponents.dll
 C:\Users\Gökhan\Desktop\20171125Cinema\CinemaComponents\obj\Debug\CinemaComponents.pdb
 C:\Users\Gökhan\Desktop\20171125Cinema\CinemaComponents\obj\Debug\CinemaComponents.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\CBasics-master\20171125Cinema\CinemaComponents\obj\Debug\CinemaComponents.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\CBasics-master\20171125Cinema\CinemaComponents\obj\Debug\CinemaComponents.dll
+C:\Users\Gökhan\Desktop\CBasics-master\20171125Cinema\CinemaComponents\obj\Debug\CinemaComponents.pdb
+C:\Users\Gökhan\Desktop\CBasics-master\20171125Cinema\CinemaComponents\bin\Debug\CinemaComponents.dll
+C:\Users\Gökhan\Desktop\CBasics-master\20171125Cinema\CinemaComponents\bin\Debug\CinemaComponents.pdb

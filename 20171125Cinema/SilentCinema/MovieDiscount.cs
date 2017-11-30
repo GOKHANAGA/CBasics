@@ -19,6 +19,13 @@ namespace SilentCinema
             InitializeComponent();
         }
 
+        private void MovieDiscount_Load(object sender, EventArgs e)
+        {
+            /*----get movieList and assign to comboBox----*/
+            cmbMovie.DataSource = movieList.GetComponents().Values.ToList();
+        }
+
+
         private void btnAddDiscount_Click(object sender, EventArgs e)
         {
             Movie myMovie = GetMovieByName();
@@ -26,12 +33,6 @@ namespace SilentCinema
             txtDiscount.Text = string.Empty;
             txtOldDiscount.Text = myMovie.DiscountRate.ToString();
         }
-
-        private void MovieDiscount_Load(object sender, EventArgs e)
-        {
-            cmbMovie.DataSource = movieList.GetComponents().Values.ToList();
-        }
-
 
 
         /*----Get the MovieGenre object from selected name in combobox----*/

@@ -25,12 +25,14 @@ namespace SilentCinema
             addNewGenre.GenreName = txtGenreName.Text;
             if (chkDiscount.Checked)
             {
+                /*----If discount is checked then gen the discount value----*/
                 addNewGenre.DiscountRate = Convert.ToDouble(txtDiscount.Text);
             }
             else
             {
                 addNewGenre.DiscountRate = 0;
             }
+            /*----Add the new Genre to the list----*/
             genres.AddComponent(addNewGenre);
 
             MessageBox.Show("İşleminiz Başarılı Gerçekleşmiştir.",
@@ -44,6 +46,7 @@ namespace SilentCinema
         {
             if (chkDiscount.Checked)
             {
+                /*----If discount checkBox is checked then show textbox and label----*/
                 txtDiscount.Visible = true;
                 lblDiscount.Visible = true;
             }

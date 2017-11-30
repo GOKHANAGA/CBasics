@@ -20,6 +20,7 @@ namespace SilentCinema
 
         private void GenreList_Load(object sender, EventArgs e)
         {
+            /*----get values from list to listBox----*/
             lstGenres.DataSource = MovieGenres.GetInstance().GetComponents().Values.ToList();
         }
     }

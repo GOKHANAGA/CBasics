@@ -110,6 +110,7 @@
             this.dtpStartOfRelease.Name = "dtpStartOfRelease";
             this.dtpStartOfRelease.Size = new System.Drawing.Size(200, 20);
             this.dtpStartOfRelease.TabIndex = 3;
+            this.dtpStartOfRelease.ValueChanged += new System.EventHandler(this.dtpStartOfRelease_ValueChanged);
             // 
             // dtpEndOfRelease
             // 

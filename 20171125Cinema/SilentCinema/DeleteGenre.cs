@@ -22,14 +22,18 @@ namespace SilentCinema
 
         private void DeleteGenre_Load(object sender, EventArgs e)
         {
+            /*----Get values from list to combobox for choosing value to delete----*/
             cmbMovieGenres.DataSource = genreList.GetComponents().Keys.ToList();
         }
 
         private void btnDeleteGenre_Click(object sender, EventArgs e)
         {
+            /*----Delete the chosen genre from combobox and refresh combobox----*/
             MovieGenre genreToDelete;
             genreList.GetComponents().TryGetValue(cmbMovieGenres.SelectedValue.ToString(), out genreToDelete);
             genreList.DeleteComponent(genreToDelete);
+            cmbMovieGenres.DataSource = null;
+            cmbMovieGenres.DataSource = genreList.GetComponents().Keys.ToList();
         }
     }
 }

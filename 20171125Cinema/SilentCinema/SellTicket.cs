@@ -45,6 +45,9 @@ namespace SilentCinema
             cmbTicketMovie.DataSource = GetOnReleaseMovies();
             txtTicketPrice.Text = CalculatePrice(DateTime.Now).ToString();
             txtTicketID.Text = GetID();
+            /*----Ticket Date Can't be less than or more than release date----*/
+            dtpTicketDate.MinDate = GetMovieByName().Release.FirstDayOfRelease;
+            dtpTicketDate.MaxDate = GetMovieByName().Release.LastDayOfRelease;
         }
 
 
@@ -56,18 +59,22 @@ namespace SilentCinema
                 selectedMovie = GetMovieByName();
                 if (sellingDate.DayOfWeek.ToString() == "Saturday" || sellingDate.DayOfWeek.ToString() == "Sunday")
                 {
+                    /*----if it is weekend then get weekend prices for the ticket----*/
                     if (selectedMovie.DiscountRate + selectedMovie.Genre.DiscountRate > 100)
                     {
+                        /*----if the discount rate is too much(over 100%) show a warning and give price as 0 to movie----*/
                         MessageBox.Show("Filmin fiyatı negatif değer olamaz indirim oranlarını kontrol ediniz.", "Fiyat hesaplama hatası", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         return 0;
                     }
                     else
                     {
+                        /*----else just calculate the price for movie on weekend price and return that value----*/
                         return WeekendTicketPrice - (WeekendTicketPrice * (selectedMovie.DiscountRate / 100.0)) - (WeekendTicketPrice * (selectedMovie.Genre.DiscountRate / 100.0));
                     }
                 }
                 else
                 {
+                    /*----if it is weekend then get weekDay prices for the ticket----*/
                     if (selectedMovie.DiscountRate + selectedMovie.Genre.DiscountRate > 100)
                     {
                         MessageBox.Show("Filmin fiyatı negatif değer olamaz indirim oranlarını kontrol ediniz.", "Fiyat hesaplama hatası", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -115,6 +122,7 @@ namespace SilentCinema
 
         private string GetID()
         {
+            /*----Create a ticket no for the new ticket----*/
             Guid id = Guid.NewGuid();
             return id.ToString().Substring(0, 8).ToUpper();
         }
@@ -122,6 +130,9 @@ namespace SilentCinema
         private void cmbTicketMovie_SelectedIndexChanged(object sender, EventArgs e)
         {
             txtTicketPrice.Text = CalculatePrice(dtpTicketDate.Value).ToString();
+            /*----Ticket Date Can't be less than or more than release date----*/
+            dtpTicketDate.MinDate = GetMovieByName().Release.FirstDayOfRelease;
+            dtpTicketDate.MaxDate = GetMovieByName().Release.LastDayOfRelease;
         }
 
 
