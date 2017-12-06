@@ -16,6 +16,32 @@ namespace SQLConnection
 
         }
 
+
+/*
+ CREATE PROC sp_GetProduct
+ (
+ @orderID INT,
+ @productName nvarchar(40) =null OUTPUT
+ )
+ AS
+ BEGIN
+	SET @productName=(SELECT TOP 1 ProductName 
+					    FROM [Order Details] od 
+						INNER JOIN Products p ON od.ProductID=p.ProductID WHERE od.OrderID=@orderID)
+ END
+
+*/
+/*
+ALTER PROC sp_KategoriListele
+(
+@employeeID int
+)
+ AS
+ BEGIN
+ 	(SELECT FirstName,LastName FROM Employees WHERE EmployeeID=@employeeID)
+ END
+
+*/
         protected void Button1_Click(object sender, EventArgs e)
         {
             SqlConnection conn = new SqlConnection(ConnectionInfo.ConnectionString);
