@@ -1,0 +1,6 @@
+C:\Users\Gökhan\Desktop\20171206SQLConnection\SQLConnection\bin\SQLConnection.dll.config
+C:\Users\Gökhan\Desktop\20171206SQLConnection\SQLConnection\bin\SQLConnection.dll
+C:\Users\Gökhan\Desktop\20171206SQLConnection\SQLConnection\bin\SQLConnection.pdb
+C:\Users\Gökhan\Desktop\20171206SQLConnection\SQLConnection\obj\Debug\SQLConnection.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\20171206SQLConnection\SQLConnection\obj\Debug\SQLConnection.dll
+C:\Users\Gökhan\Desktop\20171206SQLConnection\SQLConnection\obj\Debug\SQLConnection.pdb
